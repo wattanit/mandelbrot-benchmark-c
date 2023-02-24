@@ -1,0 +1,1 @@
+int write_image_file(struct MandelbrotSet set, const char *filePath);
